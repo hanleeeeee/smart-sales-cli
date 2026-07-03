@@ -3,7 +3,11 @@ print("try to rebase")
 print("loading")
 print("another")
 print("used case")
-print("2")
-print("3")
-print("merge")
-print("into")
+<<<<<<< HEAD
+
+=======
+print("exchange")
+print("exchange2")
+print("overload")
+print("underload")
+>>>>>>> main
