@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "customer_id": "C001",
+    "customer_name": "apple",
+    "manager_name": "hops",
+    "email": "md@"
+  }
+]
