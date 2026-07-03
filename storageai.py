@@ -1,2 +1,2 @@
-﻿print('hello ai23')
 print("d")
+print('hello ai23')
