@@ -167,5 +167,5 @@ def delete_customer(customers, customer_id):
         if c.get('customer_id') == customer_id:
             customers.pop(i)
             return customers, None
-
+    #DD
     return customers, '존재하지 않는 고객사입니다.'
